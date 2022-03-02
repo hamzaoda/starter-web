@@ -11,6 +11,6 @@ hellp from introduction
 
 
 ##How to contribut
-
+please fork this repository and make a pull request
 
 ##Copyright
