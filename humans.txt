@@ -11,6 +11,7 @@ kokokokooooooooooooooo
     <name>
 
 # TECHNOLOGY COLOPHON
+Hello from the Technology Colophon
 
 i know that there is some lines above me
     HTML5, CSS3
