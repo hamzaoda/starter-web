@@ -2,7 +2,7 @@
 hello from starter web
 
 ##Introduction
-hellp from introduction
+hello for undrsatding stashing
 
 ##Purpose
 hellp from purpose
